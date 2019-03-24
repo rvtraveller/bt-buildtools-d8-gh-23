@@ -1,0 +1,14 @@
+uuid: cb19331c-6b4f-4f89-a904-48ef3f6d93da
+name: bt-buildtools-d8-gh-23
+mail: bthompson+pantheonautomation@mindgrub.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
